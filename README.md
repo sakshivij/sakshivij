@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <h2>Hi there, I'm Sakshi! 👋</h2>
+</div>
+
+- 🔭 I’m currently working in Wipro
+- 🌱 I’m currently learning React
+- 💬 Ask me about anything
+- ⚡ Fun fact: I love painting and I'm crazy about hair coloring
+
 
 <!--
 **sakshivij/sakshivij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
