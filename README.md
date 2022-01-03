@@ -5,7 +5,6 @@
 - 🔭 I’m currently working in Wipro
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love painting and I'm crazy about hair coloring
 
 
 <!--
