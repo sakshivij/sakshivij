@@ -4,10 +4,10 @@
 
 <p align="center">
 <br>
-<a href=""><img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://x.com/sakshivij21"><img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sakshi-vij-b77058126/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:sakshivij12@gmail.com?subject=Hola%20Sakshi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a>&nbsp;
+<a href="ttps://leetcode.com/sakshivij12/"><img src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a>&nbsp;
 </p>
 
 <br>
