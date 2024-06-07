@@ -15,7 +15,7 @@
 ### I am a Software Engineer
 - 🔭 I'm a reader and love to read anything that I can get my hands on
 - 🌱 I’m a traveller by heart. I look for ways to escape to places surrounding nature
-- 💬 Connect with me for anything. Happy to help!
+- 💬 Connect with me for anything related to tech. Happy to help, develop and grow!
 <br>
 
 ### Languages and Tools: 
